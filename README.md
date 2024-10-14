@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/loick-emadisson-672442296" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://facebook.com/loickemadisson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+
+<a href="https://web.facebook.com/profile.php?id=100010172414862" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
