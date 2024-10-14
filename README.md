@@ -52,9 +52,9 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank">
+ <a href="https://expressjs.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg" alt="Express.js" width="40" height="40"/>
-  </a>
+</a>
 </p>
 
 ---
