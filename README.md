@@ -52,9 +52,9 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
   </a>
- <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg" alt="Express.js" width="40" height="40"/>
-</a>
+<a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -68,10 +68,5 @@
 
 ---
 
-### Additional Information:
 
-- 📫 How to reach me: [Facebook](https://web.facebook.com/profile.php?id=100010172414862)
-- 💬 Ask me about **JavaScript, MERN stack, React, and web development**.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love building applications that solve real-world problems and always learning new technologies.
 
