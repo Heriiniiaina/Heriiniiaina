@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React and TypeScript**.
 
-- 🔭 I’m currently working on exciting web projects using React and Node.js.
+
 
 ---
 
