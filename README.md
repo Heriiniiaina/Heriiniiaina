@@ -43,6 +43,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a> 
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  </a> 
   <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;" >
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   </a>
@@ -53,7 +56,10 @@
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </a>
 <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;" >
-    <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;" >
+    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss" />
   </a>
 </p>
 
