@@ -61,6 +61,9 @@
   <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;" >
     <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss" />
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;" >
+    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss" />
+  </a>
 </p>
 
 ---
