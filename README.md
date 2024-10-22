@@ -61,8 +61,11 @@
   <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;" >
     <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;" >
-    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss" />
+  <a href="https://redux.js.org/" target="_blank" style="text-decoration: none;" >
+    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  </a>
+   <a href="https://www.postman.com/" target="_blank" style="text-decoration: none;" >
+    <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </a>
 </p>
 
