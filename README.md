@@ -67,6 +67,10 @@
    <a href="https://www.postman.com/" target="_blank" style="text-decoration: none;" >
     <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </a>
+  
+   <a href="https://insomnia.rest/" target="_blank" style="text-decoration: none;" >
+    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
+  </a>
 </p>
 
 ---
