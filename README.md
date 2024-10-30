@@ -71,6 +71,10 @@
    <a href="https://insomnia.rest/" target="_blank" style="text-decoration: none;" >
     <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
   </a>
+  <a href="https://www.debian.org/index.fr.html" target="_blank" style="text-decoration: none;" >
+    <img src=" https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+ 
 </p>
 
 ---
