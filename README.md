@@ -33,6 +33,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heriiniiaina&show_icons=true&locale=en&layout=compact&count_private=true&token=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" alt="Heriiniiaina's most used languages" />
 </p>
 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Heriiniiaina/Heriiniiaina/update-readme.yml?branch=main)
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
