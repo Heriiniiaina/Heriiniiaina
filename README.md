@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Heriniaina</h1>
 
 <p align="center">
@@ -7,8 +5,6 @@
 </p>
 
 - 🌱 I’m currently learning **React and TypeScript**.
-
-
 
 ---
 
@@ -35,8 +31,6 @@
 <p align="left">
   <img align="center" src="https://img.shields.io/github/actions/workflow/status/Heriiniiaina/Heriiniiaina/update-readme.yml?branch=main" alt="Heriiniiaina's most used languages" />
 </p>
-![GitHub Workflow Status](
-https://img.shields.io/github/actions/workflow/status/Heriiniiaina/Heriiniiaina/update-readme.yml?branch=main)
 
 ---
 
@@ -60,7 +54,7 @@ https://img.shields.io/github/actions/workflow/status/Heriiniiaina/Heriiniiaina/
   <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;" >
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </a>
-<a href="https://expressjs.com/" target="_blank" style="text-decoration: none;" >
+  <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;" >
     <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;" >
@@ -79,7 +73,6 @@ https://img.shields.io/github/actions/workflow/status/Heriiniiaina/Heriiniiaina/
   <a href="https://www.debian.org/index.fr.html" target="_blank" style="text-decoration: none;" >
     <img src="https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred" alt="Linux" />
   </a>
- 
 </p>
 
 ---
@@ -92,6 +85,3 @@ https://img.shields.io/github/actions/workflow/status/Heriiniiaina/Heriiniiaina/
 </p>
 
 ---
-
-
-
