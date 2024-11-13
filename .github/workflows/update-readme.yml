@@ -1,0 +1,30 @@
+name: Update README with GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Met à jour tous les jours à minuit
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOK }}
+        run: |
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api/top-langs?username=Heriiniiaina&show_icons=true&locale=en&layout=compact&count_private=true&token=${{ secrets.GH_TOK }}"
+          echo '![Top Langs](./stats.svg)' > README.md
+
+      - name: Commit Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with latest GitHub stats" || echo "No changes to commit"
+          git push
+
