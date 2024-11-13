@@ -30,7 +30,7 @@
 
 <h3 align="left">📈 Most Used Languages:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heriiniiaina&show_icons=true&locale=en&layout=compact" alt="Heriiniiaina's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heriiniiaina&show_icons=true&locale=en&layout=compact&count_private=true&token=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" alt="Heriiniiaina's most used languages" />
 </p>
 
 ---
