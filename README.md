@@ -29,8 +29,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heriiniiaina&show_icons=true&locale=en&layout=compact&count_private=true&token=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" alt="Heriiniiaina's most used languages" />
 </p>
 <p align="left">
-  <img align="center" src="https://img.shields.io/github/actions/workflow/status/Heriiniiaina/Heriiniiaina/update-readme.yml?branch=main" alt="Heriiniiaina's most used languages" />
+  <img align="center" src="https://img.shields.io/github/workflow/status/Heriiniiaina/Heriiniiaina/update-readme?label=workflow&style=for-the-badge" alt="Heriiniiaina Workflow Status" />
 </p>
+
 
 ---
 
