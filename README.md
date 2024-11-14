@@ -19,7 +19,7 @@
 <h3 align="left">🏆 Contribution Stats:</h3>
 
 <p align="left">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Heriiniiaina&hide_border=true" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=Heriiniiaina&theme=dark$hide_border=true" alt="GitHub Streak" />
 </p>
 
 
