@@ -11,7 +11,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heriiniiaina&show_icons=true&locale=en" alt="Heriiniiaina's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heriiniiaina&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="Heriiniiaina's GitHub stats" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 <h3 align="left">🏆 Contribution Stats:</h3>
 
 <p align="left">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Heriiniiaina&theme=dark$hide_border=true" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Heriiniiaina&count_private=true&include_all_commits=true" alt="GitHub Streak" />
 </p>
 
 
