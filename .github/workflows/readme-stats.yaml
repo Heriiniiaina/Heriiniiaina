@@ -2,37 +2,40 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Met à jour tous les jours à minuit
+    - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: read
+  pull-requests: read
+  actions: read
+  packages: read
+  statuses: read
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    # 1. Récupérer le contenu du repository
     - name: Checkout repository content
       uses: actions/checkout@v3
 
-    # 2. Générer le fichier top-langs.svg
+    - name: Configure git
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
     - name: Generate top languages stats
       env:
         GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
       run: |
         curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs?username=Heriiniiaina&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true&token=${GH_STATS_TOKEN}"
 
-    # 3. Configurer git pour le commit
-    - name: Configure git
-      run: |
-        git config --local user.name "github-actions[bot]"
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-    # 4. Ajouter le fichier généré au commit
     - name: Add changes
       run: |
         git add top-langs.svg
 
-    # 5. Vérifier si des modifications ont été effectuées avant de commit
     - name: Commit changes
       run: |
         if [ -n "$(git status --porcelain)" ]; then
@@ -41,7 +44,8 @@ jobs:
           echo "No changes to commit"
         fi
 
-    # 6. Pousser les modifications sur le repository
     - name: Push changes
+      env:
+        GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
       run: |
-        git push
+        git push "https://${GH_STATS_TOKEN}@github.com/Heriiniiaina/Heriiniiaina.git" HEAD:main
