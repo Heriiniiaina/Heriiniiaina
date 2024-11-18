@@ -48,6 +48,11 @@
   <a href="https://www.debian.org/index.fr.html" target="_blank" style="text-decoration: none;" >
     <img src="https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred" alt="Linux" />
   </a>
+  <a href="https://www.debian.org/index.fr.html" target="_blank" style="text-decoration: none;" >
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  alt="git logo"  />
+  </a>
+
+ 
 </p>
 
 ---
