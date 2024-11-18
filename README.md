@@ -8,31 +8,6 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heriiniiaina&show_icons=true&locale=en" alt="Heriiniiaina's GitHub stats" />
-</p>
-
----
-
-<h3 align="left">🏆 Contribution Stats:</h3>
-
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Heriiniiaina&count_private=true&include_all_commits=true" alt="GitHub Streak" />
-</p>
-
-
----
-
-<h3 align="left">📈 Most Used Languages:</h3>
-<p align="left">
-  <img align="center" src="./top-langs.svg" alt="Heriiniiaina's most used languages" />
-</p>
-
-
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -74,6 +49,35 @@
     <img src="https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred" alt="Linux" />
   </a>
 </p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heriiniiaina&show_icons=true&locale=en" alt="Heriiniiaina's GitHub stats" />
+</p>
+
+---
+
+<h3 align="left">🏆 Contribution Stats:</h3>
+
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Heriiniiaina&count_private=true&include_all_commits=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
+<h3 align="left">📈 Most Used Languages:</h3>
+<p align="left">
+  <img align="center" src="./top-langs.svg" alt="Heriiniiaina's most used languages" />
+</p>
+
+
+
+---
+
 
 ---
 
