@@ -11,6 +11,45 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+[HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+[CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+[JavaScript Documentation](https://developer.mozilla.org/fr/docs/Web/JavaScript)  
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+[React Documentation](https://reactjs.org/)  
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+[Node.js Documentation](https://nodejs.org/en/)  
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+[MongoDB Documentation](https://www.mongodb.com/)  
+
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  
+[Express.js Documentation](https://expressjs.com/)  
+
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+[Tailwind CSS Documentation](https://tailwindcss.com/)  
+
+![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+[Redux Documentation](https://redux.js.org/)  
+
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
+[Postman Documentation](https://www.postman.com/)  
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)  
+[Insomnia Documentation](https://insomnia.rest/)  
+
+![Debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)  
+[Debian Documentation](https://www.debian.org/index.fr.html)  
+
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+[GitHub Documentation](https://github.com)  
+
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 <h3 align="left">📊 GitHub Stats:</h3>
