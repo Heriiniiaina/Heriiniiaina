@@ -48,9 +48,11 @@
   <a href="https://www.debian.org/index.fr.html" target="_blank" style="text-decoration: none;" >
     <img src="https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred" alt="Linux" />
   </a>
-  <a href="https://www.debian.org/index.fr.html" target="_blank" style="text-decoration: none;" >
+  <a href="https://github.com" target="_blank" style="text-decoration: none;" >
      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
+  </a>
+  <a href="https://redux.js.org/" target="_blank" style="text-decoration: none;" >
+     <img src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white" alt="Redux" />
   </a>
 
  
@@ -79,9 +81,7 @@
 <p align="left">
   <img align="center" src="./top-langs.svg" alt="Heriiniiaina's most used languages" />
 </p>
-<a href="https://www.githubtrends.io/wrapped/Heriiniiaina">
-<img src="https://api.githubtrends.io/user/svg/Heriiniiaina/langs?time_range=one_year&theme=ferns" />
-</a>
+
 
 
 
