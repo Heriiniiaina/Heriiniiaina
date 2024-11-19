@@ -57,7 +57,7 @@
 
  
 </p>
-
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
