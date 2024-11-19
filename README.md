@@ -79,6 +79,9 @@
 <p align="left">
   <img align="center" src="./top-langs.svg" alt="Heriiniiaina's most used languages" />
 </p>
+<a href="https://www.githubtrends.io/wrapped/Heriiniiaina">
+<img src="https://api.githubtrends.io/user/svg/Heriiniiaina/langs?time_range=one_year&theme=ferns" />
+</a>
 
 
 
