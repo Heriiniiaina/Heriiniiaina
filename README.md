@@ -47,6 +47,11 @@
 <h3 align="left">📈 Most Used Languages:</h3>
 <p align="left">
   <img align="center" src="./top-langs.svg" alt="Heriiniiaina's most used languages" />
+  
+</p>
+
+<p align="left">
+  
   <img align="center" src="https://api.githubtrends.io/user/svg/Heriiniiaina/langs?theme=classic" alt="Heriiniiaina's most used languages" />
 </p>
 
