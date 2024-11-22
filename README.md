@@ -4,7 +4,7 @@
   I am a JavaScript developer specializing in the MERN stack, building robust and modern web applications.
 </p>
 
-- 🌱 I’m currently learning **React and TypeScript**.
+- 🌱 I’m currently learning **React and TypeScript and Python**.
 
 ---
 
