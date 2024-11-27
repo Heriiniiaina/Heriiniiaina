@@ -57,9 +57,9 @@
 
 </p>
 -->
-
+<!--
 ![Langages les plus utilisés](https://api.githubtrends.io/user/svg/Heriiniiaina/langs?time_range=all_time&include_private=true)
-
+-->
 ---
 
 
