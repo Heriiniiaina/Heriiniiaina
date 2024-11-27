@@ -51,12 +51,12 @@
   
   <!-- <img align="center" src="./top-langs.svg" alt="Heriiniiaina's most used languages" /> -->
 </p>
-
+<!--
 <p align="left">
     <img align="center" src="https://api.githubtrends.io/user/svg/Heriiniiaina/langs?time_range=all_time&include_private=true" alt="Heriiniiaina's most used languages" />
 
 </p>
-
+-->
 
 
 
