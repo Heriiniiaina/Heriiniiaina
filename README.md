@@ -72,7 +72,7 @@
 <h3 align="left">📈 Project 1: Note Management System</h3>
 
 <p align="center">
-  <a href="https://sweet-zabaione-f2c708.netlify.app" target="_blank">
+  <a href="https://notesmemos.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Note Management System" />
   </a>
 </p>
@@ -80,7 +80,7 @@
 <p align="center">
   <strong>Note Management System</strong>Note Management System is a simple web app that allows users to create, delete, and update notes quickly. Perfect for organizing ideas and tasks with an easy-to-use interface. <br>
 
-  <a href="https://sweet-zabaione-f2c708.netlify.app" target="_blank">
+  <a href="https://notesmemos.netlify.app/" target="_blank">
     <strong>Click here to explore the live project!</strong>
   </a>
 </p>
