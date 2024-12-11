@@ -60,9 +60,17 @@
 <!--
 ![Langages les plus utilisés](https://api.githubtrends.io/user/svg/Heriiniiaina/langs?time_range=all_time&include_private=true)
 -->
+<h3 align="left">📈 My Latest Project:</h3>
 
+<p align="center">
+  <a href="https://sweet-zabaione-f2c708.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="My Latest Project" />
+  </a>
+</p>
 
-
+<p align="center">
+  <a href="https://sweet-zabaione-f2c708.netlify.app" target="_blank">Click here to view the project</a>
+</p>
 
 ---
 <!--
