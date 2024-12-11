@@ -78,8 +78,8 @@
 </p>
 
 <p align="center">
-  <strong>Note Management System</strong> is a web application that allows users to create, edit, and save their personal notes securely. Whether you're a student, a professional, or just someone looking to organize your thoughts, this tool is simple and efficient.<br>
-  With an easy-to-use interface, users can manage all their notes in one place. Each note can be edited and saved for future reference.<br><br>
+  <strong>Note Management System</strong>Note Management System is a simple web app that allows users to create, delete, and update notes quickly. Perfect for organizing ideas and tasks with an easy-to-use interface. <br>
+
   <a href="https://sweet-zabaione-f2c708.netlify.app" target="_blank">
     <strong>Click here to explore the live project!</strong>
   </a>
