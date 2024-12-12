@@ -26,7 +26,7 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23121011.svg?style=for-the-badge&logo=render&logoColor=white)
 
 
 <h3 align="left">📊 GitHub Stats:</h3>
