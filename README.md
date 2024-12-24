@@ -53,14 +53,14 @@
 
 <h3 align="left">📈 Most Used Languages:</h3>
 <p align="left">
-  <img align="center" src="https://api.githubtrends.io/user/svg/Heriiniiaina/langs?time_range=all_time&include_private=true&compact=true" alt="Heriiniiaina's most used languages" />
  
   <!-- <img align="center" src="./top-langs.svg" alt="Heriiniiaina's most used languages" /> -->
 </p>
 <!--
 <p align="left">
     <img align="center" src="https://api.githubtrends.io/user/svg/Heriiniiaina/langs?time_range=all_time&include_private=true" alt="Heriiniiaina's most used languages" />
-
+ <img align="center" src="https://api.githubtrends.io/user/svg/Heriiniiaina/langs?time_range=all_time&include_private=true&compact=true" alt="Heriiniiaina's most used languages" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heriiniiaina&langs_count=8)
 </p>
 -->
 <!--
