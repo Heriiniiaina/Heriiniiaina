@@ -68,21 +68,13 @@
 -->
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heriiniiaina&langs_count=8)
-<h2 align="center">💻 My Latest Projects</h2>
-
-<p align="center">
-  Welcome to my latest projects! Here, you can explore various web applications I've built, ranging from note management systems to task trackers and more. Each project offers different functionalities and features. Check them out below!
-</p>
+<h2 align="center">💻 My mini projects</h2>
 
 ---
 
 <h3 align="left">📈 Project 1: Note Management System</h3>
 
-<p align="center">
-  <a href="https://notesmemos.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Note Management System" />
-  </a>
-</p>
+
 
 <p align="center">
   <strong>Note Management System</strong>Note Management System is a simple web app that allows users to create, delete, and update notes quickly. Perfect for organizing ideas and tasks with an easy-to-use interface. <br>
