@@ -71,7 +71,7 @@
 <h2 align="center">💻 My mini projects</h2>
 
 ---
-
+<!--
 <h3 align="left">📈 Project 1: Note Management System</h3>
 
 
@@ -83,7 +83,7 @@
     <strong>Click here to explore the live project!</strong>
   </a>
 </p>
-
+-->
 ---
 
 <!--
