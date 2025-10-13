@@ -1,15 +1,15 @@
-<!--<h1 align="center">Hi 👋, I'm Heriniaina</h1>
+<h1 align="center">Hi 👋, I'm Heriniaina</h1>
 
 <p align="center">
-  I am a JavaScript developer specializing in the MERN stack, building robust and modern web applications.
+  I am a JavaScript/TypeScript developer specializing in the MERN stack, building robust and modern web applications.
 </p>
 
-- 🌱 I’m currently learning **React and TypeScript and Python**. -->
+- 🌱 I’m currently learning **NEST and NEXTJS**. 
 
-
+<!--
 <a href="https://gitroll.io/profile/u4dNIQ47pZRVYDuimdWfkLsVGYbj2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4dNIQ47pZRVYDuimdWfkLsVGYbj2" alt="GitRoll Profile Badge"/></a>
 ---
-
+-->
 <h3 align="left">Languages and Tools:</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
