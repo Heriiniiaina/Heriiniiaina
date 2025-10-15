@@ -67,10 +67,11 @@
 ![Langages les plus utilisés](https://api.githubtrends.io/user/svg/Heriiniiaina/langs?time_range=all_time&include_private=true)
 -->
 ---
-
+<!--
 <h2 align="center">💻 My mini projects</h2>
 
 ---
+-->
 <!--
 <h3 align="left">📈 Project 1: Note Management System</h3>
 
