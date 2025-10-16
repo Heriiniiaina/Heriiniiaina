@@ -37,7 +37,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heriiniiaina&show_icons=true&locale=en" alt="Heriiniiaina's GitHub stats" />
+  <img align="center" src="https://github-readme-stats-six-chi-52.vercel.app/api/top-langs?username=Heriiniiaina&compact=true&show_icons=true&locale=en&layout=compact&hide_border=true&exclude_repo=github-readme-stats,Heriiniiaina.github.io&langs_count=6&size_weight=0.5&count_weight=0.5&hide=html,css,scss,less,batchfile&theme=vue-dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117" alt="Heriiniiaina's GitHub stats" />
 </p>
 
 ---
