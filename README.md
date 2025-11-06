@@ -38,7 +38,10 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
+  <!--
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heriiniiaina&show_icons=true&locale=en" alt="Heriiniiaina's GitHub stats" />
+  -->
+  ![Heriiniiaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heriiniiaina&show_icons=true&theme=transparent)
 </p>
 
 ---
