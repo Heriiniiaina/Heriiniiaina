@@ -5,7 +5,7 @@
 </p>
 
 - 🌱 I’m currently learning **NEST and NEXTJS**. 
-
+- 💻 Check out my portfolio: https://heriniaina-terminal.vercel.app/
 <!--
 <a href="https://gitroll.io/profile/u4dNIQ47pZRVYDuimdWfkLsVGYbj2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4dNIQ47pZRVYDuimdWfkLsVGYbj2" alt="GitRoll Profile Badge"/></a>
 ---
